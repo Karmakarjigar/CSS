@@ -5,9 +5,11 @@ h1 {
 p {
     background-color : black;
     color : white;
+    opacity: 0.8;
 }
 
 button {
     background-color: blue;
     color : white;
+    opacity : 0.5;
 }
