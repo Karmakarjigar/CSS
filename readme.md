@@ -21,4 +21,9 @@
     class selection
     Descendant selector
 }
-14. 
+14. practice question
+15. Pseudo Class
+{
+    hover
+}
+15. Practice Program(Make Registeration form)
